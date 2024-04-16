@@ -1,5 +1,5 @@
 # About me
-My name is Dimitri, and I enjoy programming. I am 15 years old, and have been actively learning Python for 5 years, and C++ for 3. How about you?
+My name is Dimitri, and I enjoy programming. I am 16 years old, and have been actively learning Python for 6 years, and C++ for 4. How about you?
 
 
 # My favorite languages
