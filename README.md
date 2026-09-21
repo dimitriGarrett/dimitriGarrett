@@ -1,7 +1,5 @@
-# About me
-My name is Dimitri, and I enjoy programming. I am 16 years old, and have been actively learning Python for 6 years, and C++ for 4. How about you?
+# About Me
+My name is Dimitri Garrett, and I've been programming in C++ since 2020 and Python since 2018. I've gained experience in Lua, Java, Javascript, C, and C# along the way. A happy Neovim user.
 
-
-# My favorite languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriGarrett&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Current Work
+Currently working on a small game engine called meat, progress is slow but the results are meaningful.
